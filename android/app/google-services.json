@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811428474903",
+    "project_id": "lofi-moosic",
+    "storage_bucket": "lofi-moosic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811428474903:android:4f0f8300b6949c3e7cac52",
+        "android_client_info": {
+          "package_name": "com.example.lofi_music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFsp1V0mgcElfdm8ZCBRsJ1m9qniy8mXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
