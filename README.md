@@ -1,6 +1,26 @@
-# lofi_music
+# Lofi App Made With flutter
+## About Project: 
 
-A new Flutter project.
+# Preview & Screenshots
+## Web App in PC:
+
+
+
+https://github.com/MSatyam-Mishra/Lofi-Music-Flutter-App/assets/12216430/c8a9e930-b218-4ab4-85c4-c534788d669f
+
+
+## Web App in Phone:
+
+
+https://github.com/MSatyam-Mishra/Lofi-Music-Flutter-App/assets/12216430/7a33653b-d285-4ac8-9b27-71ed092414a5
+
+
+## Android App:
+
+
+https://github.com/MSatyam-Mishra/Lofi-Music-Flutter-App/assets/12216430/da56e271-e8b3-480c-b333-a715fb0f0d62
+
+
 
 ## Getting Started
 
