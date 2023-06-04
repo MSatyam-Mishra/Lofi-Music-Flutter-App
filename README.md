@@ -4,7 +4,7 @@
 
 ### Website: https://lofi-moosic.web.app/#/
 
-Introducing a [Minimalistic Lofi App](https://lofi-moosic.web.app/#/)  crafted with elegance and powered by Flutter. Available for Android and as a responsive [web app](https://lofi-moosic.web.app/#/) with a visually stunning parallax effect, Harmony Vibes transports you to a world of tranquil melodies and soothing sounds, all without the need for login.
+Introducing a [Minimalistic Lofi App](https://lofi-moosic.web.app/#/)  crafted with elegance and powered by Flutter. Available for Android and as a responsive [web app](https://lofi-moosic.web.app/#/) with a visually stunning parallax effect, this app transports you to a world of tranquil melodies and soothing sounds, all without the need for login.
 
 Immerse yourself in a seamless audio experience, curated to provide your ears with a symphony of calming and ear-pleasing tunes. Whether you're seeking solace during work, studying, or simply relaxing, Harmony Vibes has an extensive collection of melodies to captivate your senses and create an ambiance of tranquility.
 
