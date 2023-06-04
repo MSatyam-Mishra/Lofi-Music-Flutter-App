@@ -2,7 +2,7 @@
 
 ## About Project: 
 
-### Website: https://lofi-moosic.web.app/#/
+### Website: https://lofi-moosic.web.app/
 
 Introducing a [Minimalistic Lofi App](https://lofi-moosic.web.app/#/)  crafted with elegance and powered by Flutter. Available for Android and as a responsive [web app](https://lofi-moosic.web.app/#/) with a visually stunning parallax effect, this app transports you to a world of tranquil melodies and soothing sounds, all without the need for login.
 
