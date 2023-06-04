@@ -10,7 +10,7 @@ Immerse yourself in a seamless audio experience, curated to provide your ears wi
 
 The [web app](https://lofi-moosic.web.app/#/), designed with meticulous attention to detail, enthralls users with its mesmerizing parallax effect. As you navigate through the carefully crafted user interface, the background subtly moves, creating a visual feast that complements the enchanting melodies. Lose yourself in the rhythmic motion as you explore the expansive library of Lofi beats.
 
-For Android users,this Lofi app takes the music experience to the next level by integrating the gyroscope feature. With a simple tilt of your device, the music card reacts, adding an immersive and interactive element to your journey through the Lofi world. Engage with the app in a whole new way as you tilt, twist, and turn your device to explore the captivating soundscape.
+For Android users, this Lofi app takes the music experience to the next level by integrating the gyroscope feature. With a simple tilt of your device, the music card reacts, adding an immersive and interactive element to your journey through the Lofi world. Engage with the app in a whole new way as you tilt, twist, and turn your device to explore the captivating soundscape.
 
 It is is the perfect companion for those seeking solace and serenity in the chaos of everyday life. Indulge your senses with the effortless navigation, seamless cross-platform availability, and an exquisite collection of meticulously selected Lofi sounds. Let the harmonious melodies wash over you, creating an oasis of calm wherever you are.
 
